@@ -1,0 +1,120 @@
+https://www.ibm.com/watson/services/visual-recognition/demo/index.html#watson-demo
+https://www.ibm.com/blogs/business-analytics/calling-all-academics-have-we-got-a-watson-analytics-for-you/
+
+Pros:
+ -Possibly free access;
+ -Clear documentation.
+
+Cons:
+ -Possibly slower than Google's or Amazon's as they might not have the same amount of power;
+ -No dedicated servers (only a con in the case of the above).
+
+
+--------
+
+https://cloud.google.com/vision/
+https://cloud.google.com/edu/
+
+Pros:
+ -Fast
+ -No down-time
+ -Clear documentation
+
+Cons:
+ -Getting a grant could be complicated or impossible;
+
+
+--------
+
+https://aws.amazon.com/rekognition/
+https://aws.amazon.com/education/
+
+Pros:
+ -Fast
+ -No down-time
+ -Clear documentation
+
+Cons:
+ -Could be a problem if we want to participate in the Amazon competition with our project
+
+
+--------
+
+https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/
+https://azure.microsoft.com/en-us/free/students/
+
+Pros:
+ -Fast
+ -No downtime
+ -Clear documentation
+
+Cons:
+ -Does not seem to be in the student access program but has 5000 calls per month
+
+
+--------
+
+https://cloudsight.ai/
+
+Pros:
+ -Clear documentation;
+
+Cons:
+ -Still have not answered our questions.
+
+
+--------
+
+https://microwork.io/
+
+Pros:
+ -Clear documentation;
+
+Cons:
+ -Still have not answered our questions.
+
+
+--------
+
+https://www.clarifai.com
+http://help.clarifai.com/general/general-faq
+
+Pros:
+ -Clear documentation;
+ -5000 calls for free accounts
+
+Cons:
+ -Might be hard to get access: 
+"We don't have a formal policy on this yet but we do love working with students! 
+If you have a project that you're working on feel free to tell us about it here. 
+Credits are awarded on a case-by-case basis."
+
+
+--------
+
+https://visagecloud.com/
+
+Pros:
+ -Free;
+ -Clear documentation with help;
+ -Seems to have dedicated support for the team in case we run into troubles;
+ -Offers dedicated server.
+
+Cons:
+ -Does not seem to have training for animals.
+
+
+--------
+
+https://github.com/tahaemara/object-recognition-tensorflow
+Required to work:
+https://storage.googleapis.com/download.tensorflow.org/models/inception_dec_2015.zip
+
+Pros:
+ -Free;
+ -Can be hosted wherever we want it to be.
+
+Cons:
+ -Has issues with certain animals;
+ -Might be slow depending on where we host it;
+ -Requires server.
