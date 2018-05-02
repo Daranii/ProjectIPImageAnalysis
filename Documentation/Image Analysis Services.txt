@@ -1,4 +1,6 @@
+Service Link: 
 https://www.ibm.com/watson/services/visual-recognition/demo/index.html#watson-demo
+Link to details about academic license:
 https://www.ibm.com/blogs/business-analytics/calling-all-academics-have-we-got-a-watson-analytics-for-you/
 
 Pros:
@@ -12,7 +14,9 @@ Cons:
 
 --------
 
+Service Link: 
 https://cloud.google.com/vision/
+Link to details about academic license:
 https://cloud.google.com/edu/
 
 Pros:
@@ -26,7 +30,9 @@ Cons:
 
 --------
 
+Service Link: 
 https://aws.amazon.com/rekognition/
+Link to details about academic license:
 https://aws.amazon.com/education/
 
 Pros:
@@ -40,7 +46,9 @@ Cons:
 
 --------
 
+Service Link: 
 https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/
+Link to details about academic license:
 https://azure.microsoft.com/en-us/free/students/
 
 Pros:
@@ -54,6 +62,7 @@ Cons:
 
 --------
 
+Service Link: 
 https://cloudsight.ai/
 
 Pros:
@@ -65,6 +74,7 @@ Cons:
 
 --------
 
+Service Link: 
 https://microwork.io/
 
 Pros:
@@ -76,7 +86,9 @@ Cons:
 
 --------
 
+Service Link: 
 https://www.clarifai.com
+Link to details about academic license:
 http://help.clarifai.com/general/general-faq
 
 Pros:
@@ -92,6 +104,7 @@ Credits are awarded on a case-by-case basis."
 
 --------
 
+Service Link: 
 https://visagecloud.com/
 
 Pros:
@@ -106,6 +119,7 @@ Cons:
 
 --------
 
+Service Link: 
 https://github.com/tahaemara/object-recognition-tensorflow
 Required to work:
 https://storage.googleapis.com/download.tensorflow.org/models/inception_dec_2015.zip
